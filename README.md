@@ -11,14 +11,9 @@
 <sup>3</sup>KAIST, 
 <sup>4</sup>Georgia Tech 
 
+![](https://github.com/kpertsch/star/blob/main/docs/resources/STAR_teaser_gif.gif)
 
-<a href="https://kpertsch.github.io/star/">
-<p align="center">
-<img src="docs/resources/star_teaser_gif.gif" width="800">
-</p>
-</img></a>
-
-We are planning to release the PyTorch implementation of our approach soon, stay tuned!
+**We are planning to release the PyTorch implementation of our approach soon, stay tuned!**
 
 
 

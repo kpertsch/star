@@ -1,6 +1,6 @@
 # Cross-Domain Transfer via Semantic Skill Imitation
 
-#### [[Project Website]](https://kpertsch.github.io/star/) [[Paper]](https://openreview.net/forum?id=AdFROt9BoqE)
+#### [[Project Website]](https://kpertsch.github.io/star/) [[Paper]](https://arxiv.org/abs/2212.07407)
 [Karl Pertsch](https://kpertsch.github.io/)<sup>1</sup>, [Ruta Desai](https://rutadesai.github.io/)<sup>2</sup>, 
 [Vikash Kumar](https://vikashplus.github.io/)<sup>2</sup>, [Franziska Meier](https://fmeier.github.io/)<sup>2</sup>, 
 [Joseph J. Lim](https://www.clvrai.com/)<sup>3</sup>, [Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/)<sup>2,4</sup>, 
